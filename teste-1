@@ -1,0 +1,23 @@
+<html>
+	<body>
+<head>
+<title> "Teste"</title>
+<style>
+body{
+text-align: center;
+font-family: Arial, sans-serif;
+}
+h1{
+	color: red;
+	}
+</style>
+</head>
+<body>
+	<h1>JORNAL RJ</h1>
+	<h1>ASSISTA ISSO</h1>
+	    <h2>Menino pego no flagra fazendo atos vergonhosos.</h2>
+		<iframe width="900" height="450" src="https://www.youtube.com/embed/70NNIZjwI-0" title="Tá batendo uma né seu safado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</body>
+	</html>
+	
+
